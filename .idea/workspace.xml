@@ -36,7 +36,10 @@
       <change afterPath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/helloworld/App02HelloWorldSpring.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learn-spring-framework/src/main/resources/contextConfiguration.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/src/components/todo/TodoApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/src/components/todo/TodoApp.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/full-stack/01-frontend/todo-app/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-spring-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minuts/learnspringframework/App01GamingBasicJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minutes/learnspringframework/App01GamingBasicJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn-spring-framework/src/main/java/com/in28minuts/learnspringframework/App03GamingSpringBeansJava.java" beforeDir="false" />
@@ -267,7 +270,7 @@
       <workItem from="1672319856449" duration="11000" />
       <workItem from="1673776962472" duration="255000" />
       <workItem from="1673777240073" duration="62000" />
-      <workItem from="1673777319569" duration="389000" />
+      <workItem from="1673777319569" duration="975000" />
     </task>
     <servers />
   </component>
