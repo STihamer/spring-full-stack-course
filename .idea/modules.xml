@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/full-stack/full-stack.iml" filepath="$PROJECT_DIR$/full-stack/full-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-jpa-and-hibernate/learn-jpa-and-hibernate.iml" filepath="$PROJECT_DIR$/learn-jpa-and-hibernate/learn-jpa-and-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-boot/learn-spring-boot.iml" filepath="$PROJECT_DIR$/learn-spring-boot/learn-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-framework/learn-spring-framework.iml" filepath="$PROJECT_DIR$/learn-spring-framework/learn-spring-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfirstwebapp/myfirstwebapp.iml" filepath="$PROJECT_DIR$/myfirstwebapp/myfirstwebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful-web-services/restful-web-services.iml" filepath="$PROJECT_DIR$/restful-web-services/restful-web-services.iml" />
+    </modules>
+  </component>
+</project>
